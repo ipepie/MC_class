@@ -1,4 +1,3 @@
-
 create table book(
 	bookNo char(10) primary key,
     bookTitle varchar(30),
